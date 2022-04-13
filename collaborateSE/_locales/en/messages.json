@@ -1,0 +1,95 @@
+{
+    "definitionBtn": {
+        "message": "Definition"
+    },
+    "synonymsBtn": {
+        "message": "Synonyms"
+    },
+    "examplesBtn": {
+        "message": "Examples"
+    },
+    "moreBtn": {
+        "message": "more"
+    },
+    "imageBtn": {
+        "message": "Image"
+    },
+    "detectedLanguage": {
+        "message": "Detected Language:"
+    },
+    "detectedText": {
+        "message": "None"
+    },
+    "englishLanguage": {
+        "message": "English"
+    },
+    "titleO": {
+        "message": "Syntacs Extension Options"
+    },
+    "languageM": {
+        "message": "My Language:"
+    },
+    "language": {
+        "message": "Spanish"
+    },
+    "voice": {
+        "message": "Pronunciation Voice:"
+    },
+    "popupOptions": {
+        "message": "Pop-up options:"
+    },
+    "popupOptions1": {
+        "message": "Display pop-up when I double-click a word"
+    },
+    "popupOptions2": {
+        "message": "Store definitions of saved words"
+    },
+    "save": {
+        "message": "Save"
+    },
+    "reset": {
+        "message": "Reset"
+    },
+    "titleS": {
+        "message": "Syntacs"
+    },
+    "enablePopup": {
+        "message": "Enable pop-up"
+    },
+    "includePic": {
+        "message": "Include pictures"
+    },
+    "lastSavedW": {
+        "message": "Last Saved Words"
+    },
+    "seeAllSavedButton": {
+        "message": "See All"
+    },
+    "newImage": {
+        "message": "Next Image"
+    },
+    "titleList": {
+        "message": "Saved Words"
+    },
+    "download": {
+        "message": "Download All"
+    },
+    "unsave": {
+        "message": "Delete All"
+    },
+    "unsaveConfirm": {
+        "message": "Are you sure you want to unsave everything?"
+    },
+    "translationBtn": {
+        "message": "Translation"
+    },
+    "partOfSpeechBtn": {
+        "message": "Parts of Speech"
+    },
+    "syntaxBtn": {
+        "message": "Syntax Tree"
+    },
+    "no_definition": {
+        "message": "No definition available"
+    }
+}

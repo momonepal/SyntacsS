@@ -1,0 +1,128 @@
+@font-face {
+  font-family: 'Noah';
+  src: url(./fonts/Noah/Noah-Bold.woff);
+  font-weight: bold;
+}
+
+/*background*/
+body {
+    /*background-color:#FFFFFF;*/
+	background-attachment: fixed;
+	background-image: url("images/thirdB.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+/*central box*/
+.box {
+	background: #f0f2fd;
+	border: rgb(93, 45, 227, 0.65) solid;
+	border-radius: 20px;
+	box-sizing: border-box;
+	height: 700px;
+	left: 50%;
+	position: fixed;
+  	transform: translate(-50%, -50%);
+	top: 50%;
+	width: 700px;
+}
+
+/* saved words */
+.title {
+	color: #2b2b2b;
+	font-size: 30px;
+	font-weight: bold;
+	font-weight: 500;
+	line-height: 45px;
+	position: absolute;
+	top: 20px;
+    left: 20px;
+}
+
+/* list of words */
+#listedWords {
+    position: absolute;
+    top: 22%;
+    left: 20px;
+    background: #ffffff;
+    border-radius: 20px;
+    width: 95%;
+    height: 75%;
+    
+    text-align: left;
+}
+
+#words {
+	color: #2b2b2b;
+	font-size: 15px;
+	font-style: light;
+	font-weight: 500;
+	line-height: 33px;
+	margin-left: 5vw;
+	position: relative;
+	top: 22px;
+    left: 10px;
+}
+
+/* css code for all the buttons */
+button {
+	background-color: white;
+	border-color: #4f26e1;
+	border-radius: 8px;
+	border-style: solid;
+	border-width: thin;
+	color: #4f26e1;
+	font-size: 18px;
+	margin: 5px;
+	margin-top: 2px;
+	margin-bottom: 8px;
+	outline: none;
+  	display: inline-block;
+  	padding:8px 8px;
+  	bottom:10px;
+}
+
+button:hover {
+	background-color:#4f26e1;
+	color: white;
+	cursor: pointer;
+}
+
+/* delete all words button */
+#unsave {
+	left: 5%;
+}
+
+/* download all words button */
+#download {
+	left: 2%;
+}
+
+#download, #unsave {
+  position: relative;
+  top: 95px;
+}
+
+#download:hover, #unsave:hover, #savedList:hover {
+	background-color: #4f26e1;
+	color: white;
+}
+
+select, option {
+	outline: none;
+}
+
+#starButtons{
+	background-color:transparent;
+	float:right;
+	display: inline-block;
+	background-image: url('./icons/star.png'); 
+	background-size: cover; 
+	height:18px;
+	width: 18px;
+	border: none;
+}
+
+#starButtons.starred{
+	background-image:url('./icons/starfilled.png');
+}

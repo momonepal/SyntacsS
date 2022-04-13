@@ -1,0 +1,29 @@
+#syntacs-window {
+	position: absolute;
+	z-index: 99999;
+    min-width: 530px;
+	max-width: 600px;
+	height: 320px;
+	border-radius: 0px 20px 20px 20px;
+	border-width: 0;
+	overflow-x: hidden;
+	overflow-y: auto;
+	box-shadow: 0px 0px 6px #bababa;
+}
+
+
+#icon {
+	position: absolute;
+	z-index: 99999;
+	width: 23px;
+	height: 23px;
+	background-color: #DBDDFF;
+	border-radius: 30%;
+	border-style: solid;
+	border-color: #B5B8FD;
+	border-width: 0.14vw;
+}
+
+#icon:hover {
+	cursor: pointer;
+}

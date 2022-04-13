@@ -1,0 +1,95 @@
+{
+    "definitionBtn": {
+        "message": "解説"
+    },
+    "synonymsBtn": {
+        "message": "同義語"
+    },
+    "examplesBtn": {
+        "message": "例文"
+    },
+    "moreBtn": {
+        "message": "もっと"
+    },
+    "imageBtn": {
+        "message": "イメージ"
+    },
+    "detectedLanguage": {
+        "message": "検出された言語:"
+    },
+    "detectedText": {
+        "message": "なし"
+    },
+    "englishLanguage": {
+        "message": "英語"
+    },
+    "titleO": {
+        "message": "Syntacs設定"
+    },
+    "languageM": {
+        "message": "言語"
+    },
+    "language": {
+        "message": "スペイン語"
+    },
+    "voice": {
+        "message": "発音の声"
+    },
+    "popupOptions": {
+        "message": "ポップアップウィンドウ設定"
+    },
+    "popupOptions1": {
+        "message": "ダブルクリックで表示"
+    },
+    "popupOptions2": {
+        "message": "単語帳に解説を追加"
+    },
+    "save": {
+        "message": "変更を保存"
+    },
+    "reset": {
+        "message": "リセット"
+    },
+    "titleS": {
+        "message": "Syntacs"
+    },
+    "enablePopup": {
+        "message": "ポップアップ"
+    },
+    "includePic": {
+        "message": "イメージを調べる"
+    },
+    "lastSavedW": {
+        "message": "履歴"
+    },
+    "seeAllSavedButton": {
+        "message": "もっと見る"
+    },
+    "newImage": {
+        "message": "次のイメージ"
+    },
+    "titleList": {
+        "message": "履歴"
+    },
+    "download": {
+        "message" : "ダウンロード"
+    },
+    "unsave": {
+        "message": "削除"
+    },
+    "unsaveConfirm": {
+        "message": "すべて削除してもよろしいですか?"
+    },
+    "translationBtn": {
+        "message": "翻訳"
+    },
+    "partOfSpeechBtn": {
+        "message": "品詞"
+    },
+    "syntaxBtn" : {
+        "message": "構文木"
+    },
+    "no_definition" : {
+        "message": "解説を見つかりませんでした"
+    }
+}
