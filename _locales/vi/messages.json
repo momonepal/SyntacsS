@@ -1,0 +1,95 @@
+{
+    "definitionBtn": {
+        "message": "Định Nghĩa"
+    },
+    "synonymsBtn": {
+        "message": "Từ Đồng Nghĩa"
+    },
+    "examplesBtn": {
+        "message": "Ví Dụ"
+    },
+    "moreBtn": {
+        "message": "thêm"
+    },
+    "imageBtn": {
+        "message": "Hình Ảnh"
+    },
+    "detectedLanguage": {
+        "message": "Ngôn Ngữ Gốc:"
+    },
+    "detectedText": {
+        "message": "không có"
+    },
+    "englishLanguage": {
+        "message": "Tiếng Anh"
+    },
+    "titleO": {
+        "message": "Cài Đặt Syntacs"
+    },
+    "languageM": {
+        "message": "Ngôn ngữ của tôi:"
+    },
+    "language": {
+        "message": "Tiếng Tây Ban Nha"
+    },
+    "voice": {
+        "message": "Giọng phát âm:"
+    },
+    "popupOptions": {
+        "message": "Tuỳ chọn cửa sổ phiên dịch:"
+    },
+    "popupOptions1": {
+        "message": "Hiển thị cửa sổ phiên dịch khi tôi nhấn đúp một từ"
+    },
+    "popupOptions2": {
+        "message": "Lưu định nghĩa các từ"
+    },
+    "save": {
+        "message": "Lưu cài đặt"
+    },
+    "reset": {
+        "message": "Chuyển cài đặt như cũ"
+    },
+    "titleS": {
+        "message": "Syntacs"
+    },
+    "enablePopup": {
+        "message": "Hiển thị cửa sổ phiên dịch"
+    },
+    "includePic": {
+        "message": "Hiển thị hình ảnh"
+    },
+    "lastSavedW": {
+        "message": "Các Từ Vừa Lưu"
+    },
+    "seeAllSavedButton": {
+        "message": "Xem Tất Cả"
+    },
+    "newImage": {
+        "message": "Hình Tiếp"
+    },
+    "titleList": {
+        "message": "Saved Words"
+    },
+    "download": {
+        "message": "Download All"
+    },
+    "unsave": {
+        "message": "Delete All"
+    },
+    "unsaveConfirm": {
+        "message": "Are you sure you want to unsave everything?"
+    },
+    "translationBtn": {
+        "message": "Translation"
+    },
+    "partOfSpeechBtn": {
+        "message": "Parts of Speech"
+    },
+    "syntaxBtn": {
+        "message": "Syntax Tree"
+    },
+    "no_definition": {
+        "message": "No definition available"
+    }
+}

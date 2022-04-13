@@ -1,0 +1,95 @@
+{
+    "definitionBtn": {
+        "message": "Definicija"
+    },
+    "synonymsBtn": {
+        "message": "Sinonimi"
+    },
+    "examplesBtn": {
+        "message": "Primjeri"
+    },
+    "moreBtn": {
+        "message": "više"
+    },
+    "imageBtn": {
+        "message": "Slika"
+    },
+    "detectedLanguage": {
+        "message": "Otkriveni Jezik:"
+    },
+    "detectedText": {
+        "message": "Nijedna"
+    },
+    "englishLanguage": {
+        "message": "Engleski"
+    },
+    "titleO": {
+        "message": "Syntacs - Mogućnosti"
+    },
+    "languageM": {
+        "message": "Moj Jezik:"
+    },
+    "language": {
+        "message": "Španjolski"
+    },
+    "voice": {
+        "message": "Glas Izgovora:"
+    },
+    "popupOptions": {
+        "message": "Mogućnosti skočnog prozora"
+    },
+    "popupOptions1": {
+        "message": "Prikaži skočni prozor kada dvokliknem riječ"
+    },
+    "popupOptions2": {
+        "message": "Pohranite definicije spremljenih riječi"
+    },
+    "save": {
+        "message": "Spremi"
+    },
+    "reset": {
+        "message": "Resetiraj"
+    },
+    "titleS": {
+        "message": "Syntacs"
+    },
+    "enablePopup": {
+        "message": "Omogući Skočni Prozor"
+    },
+    "includePic": {
+        "message": "Uključi Slike"
+    },
+    "lastSavedW": {
+        "message": "Posljednje Spremljene Riječi"
+    },
+    "seeAllSavedButton": {
+        "message": "Vidi sve"
+    },
+    "newImage": {
+        "message": "Sljedeća Slika"
+    },
+    "titleList": {
+        "message": "Saved Words"
+    },
+    "download": {
+        "message": "Download All"
+    },
+    "unsave": {
+        "message": "Delete All"
+    },
+    "unsaveConfirm": {
+        "message": "Are you sure you want to unsave everything?"
+    },
+    "translationBtn": {
+        "message": "Translation"
+    },
+    "partOfSpeechBtn": {
+        "message": "Parts of Speech"
+    },
+    "syntaxBtn": {
+        "message": "Syntax Tree"
+    },
+    "no_definition": {
+        "message": "No definition available"
+    }
+}

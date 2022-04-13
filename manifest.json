@@ -1,0 +1,42 @@
+{
+  "manifest_version": 2,
+
+  "name": "Syntacs",
+  "description": "A tool for finding new vocabulary on websites and saving them to study later",
+  "default_locale":"es",
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": true
+  },
+  "version": "1.0",
+  "permissions": [
+    "activeTab", "storage", "tabs", "http://*/*", "https://*/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"]
+    }
+  ],
+  "browser_action": {
+    "default_popup": "browseraction.html",
+    "default_title": "Syntacs"
+  },
+  "icons": { "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png" 
+  },
+  "commands": {
+    "_execute_browser_action": {
+      "suggested_key": {
+        "default": "Ctrl+Shift+F",
+        "mac": "MacCtrl+Shift+T"
+
+      },
+      "description": "Opens popup.html"
+    }
+  },
+  "options_page": "options.html",
+
+  "web_accessible_resources": ["popup.html", "sentence_popup.html", "icon.html", "syntacs-window.css", "popup.js", "icons/icon48.png"]
+}
