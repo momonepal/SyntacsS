@@ -44,7 +44,7 @@ Javascript, HTML, CSS
 This is a shared repository model, collaborators are granted push access to a single shared repository and topic branches are created when changes need to be made. Pull requests are useful in this model as they initiate code review and general discussion about a set of changes before the changes are merged into the main development branch.
 
 ## Authors :busts_in_silhouette:
-Collaborative Software Engineering class
+Folks in Syntacs Collaborative Software Engineering
 
 ## File List and Usage
 ### background.js
