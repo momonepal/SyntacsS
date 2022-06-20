@@ -1,6 +1,6 @@
 # Syntacs :globe_with_meridians:
-
-This repository is for the class Collaborative Software Engineering. Students in this class work closely with non-programming students in the class, 'Educational Software Design' studying second language education, to design and develop software aimed at individuals learning a second language. This repository consists of files from this work culminating in the creation of Syntacs, a Google Chrome browser extension to expand upon translation and text analysis.
+ 
+This repository consists of files from this work culminating in the creation of Syntacs, a Google Chrome browser extension to expand upon translation and text analysis.
 
 ## Goals :white_check_mark:
 To assist non native English speakers (for now limited to Spanish L1 learners) to learn English while reading on the web.
@@ -17,10 +17,6 @@ The app assists by translating, defining, putting into context, providing synony
 
 ## Design and Layout
 Design:
-
-[Pictures of final design will go here!]
-
-Layout:
 
 [Pictures of final design will go here!]
 
@@ -48,13 +44,7 @@ Javascript, HTML, CSS
 This is a shared repository model, collaborators are granted push access to a single shared repository and topic branches are created when changes need to be made. Pull requests are useful in this model as they initiate code review and general discussion about a set of changes before the changes are merged into the main development branch.
 
 ## Authors :busts_in_silhouette:
-Collaborative Software Engineering class & Educational Software Design class Fall 2020 Term
-
-## Acknowledgments / Resources :pencil:
-Many thanks to everyone who has worked on this project! And of course Justin for teaching the courses!
-
-## License :blue_book:
-This project is a private source therefore remains unlicensed for the moment.
+Collaborative Software Engineering class
 
 ## File List and Usage
 ### background.js
